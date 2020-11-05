@@ -1,5 +1,5 @@
-# Bioinformatics_Basics
-Basic Algorithms in Bioinformatics
+# Basic Algorithms in Bioinformatics
+
 
 Some of the covered concepts are:
 1. BLOSUM and BLOSUMXX matrices
