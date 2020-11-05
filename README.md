@@ -9,3 +9,4 @@ Some of the covered concepts are:
 5. Logo height
 6. Statistical parameters including TPR, SPC, FPR, ACC, PPV, NPV, FDR and MCC
 7. Shanon's entropy and relative entropy
+8. Structure alignment
